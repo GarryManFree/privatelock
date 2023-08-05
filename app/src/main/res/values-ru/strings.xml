@@ -6,14 +6,14 @@
     <string name="app_github">https://github.com/wesaphzt/PrivateLock</string>
 
     <!--main-->
-    <string name="main_lock_sensitivity_title">Set the lock sensitivity</string>
-    <string name="main_lock_sensitivity_title_high">High</string>
-    <string name="main_lock_sensitivity_title_low">Low</string>
+    <string name="main_lock_sensitivity_title">Установите чувствительность блокировки</string>
+    <string name="main_lock_sensitivity_title_high">Высокий</string>
+    <string name="main_lock_sensitivity_title_low">Низкий</string>
     <string name="main_seek_low">0</string>
     <string name="main_seek_high">40</string>
-    <string name="main_test_lock_sensitivity_title">Test the lock sensitivity</string>
+    <string name="main_test_lock_sensitivity_title">Проверить чувствительность блокировки</string>
     <string name="main_lock_sensitivity_title_arrow">→</string>
-    <string name="sensitivity_value">Value: %1$s</string>
+    <string name="sensitivity_value">Значение: %1$s</string>
 
     <!--stats-->
     <string name="stats_last_breach_value_title">Last Breach Value:</string>
@@ -23,26 +23,26 @@
 
     <!--intro-->
     <string name="slider_page_one_title">@string/app_name</string>
-    <string name="slider_page_one_desc">Private Lock, the perfect companion to help protect your phone privacy and security.</string>
-    <string name="slider_page_two_title">Protect Against Theft</string>
-    <string name="slider_page_two_desc">If someone takes your phone while you\'re using it, your phone is unlocked and all your private data is up for grabs.</string>
-    <string name="slider_page_three_title">Always Running</string>
-    <string name="slider_page_three_desc">Should something happen, your phone will be quickly locked, dependent on the sensitivity you\'ve set.
-        \n\nDon\'t forget to disable battery optimization!</string>
+    <string name="slider_page_one_desc">Private Lock — идеальный компаньон для защиты конфиденциальности и безопасности вашего телефона</string>
+    <string name="slider_page_two_title">Защита от кражи</string>
+    <string name="slider_page_two_desc">Если кто-то заберет ваш телефон, пока вы им пользуетесь, ваш телефон будет разблокирован, и все ваши личные данные будут доступны для захвата.</string>
+    <string name="slider_page_three_title">Запущен постоянно</string>
+    <string name="slider_page_three_desc">Если что-то случится, ваш телефон будет быстро заблокирован в зависимости от установленной вами чувствительности.
+        \n\nDon\не забудьте отключить оптимизацию батареи!</string>
 
     <!--actionbar-->
-    <string name="action_start">Start</string>
-    <string name="action_stop">Stop</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_donate">Donate</string>
-    <string name="action_show_intro">Show Intro</string>
-    <string name="action_about">About</string>
+    <string name="action_start">Старт</string>
+    <string name="action_stop">Стоп</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_donate">Пожертвовать</string>
+    <string name="action_show_intro">Показать вступление</string>
+    <string name="action_about">Информация</string>
 
     <!--titles-->
-    <string name="fragment_donate_title">Donate</string>
-    <string name="fragment_donate_clipboard_label">Copied address</string>
-    <string name="fragment_donate_clipboard_message">Address copied to clipboard</string>
-    <string name="fragment_about_title">About</string>
+    <string name="fragment_donate_title">Пожертвовать</string>
+    <string name="fragment_donate_clipboard_label">Скопировать адрес</string>
+    <string name="fragment_donate_clipboard_message">Адрес скопирован в буфер обмена</string>
+    <string name="fragment_about_title">Информация</string>
 
     <!--about-->
     <string name="about_overview_logo_desc">About overview app logo</string>
@@ -51,15 +51,15 @@
     <string name="about_contribute_title">Report Bugs</string>
     <string name="about_contribute_desc">Report bugs or request new features</string>
 
-    <string name="about_developer_image_desc">Author image</string>
+    <string name="about_developer_image_desc">Изображение автора</string>
     <string name="about_developer_title">wesaphzt</string>
     <string name="about_developer_desc">Developer</string>
     <string name="about_developer_card_title">Developer</string>
 
-    <string name="about_version_title">Version</string>
+    <string name="about_version_title">Версия</string>
     <string name="about_version_image_desc">Version image</string>
 
-    <string name="about_license_title">License</string>
+    <string name="about_license_title">Лицензия</string>
     <string name="about_license_desc">GPL v3.0</string>
     <string name="about_license_image_desc">License image</string>
 
@@ -86,8 +86,8 @@
     <string name="donate_note_image_desc">Text emoji image</string>
 
     <!--widget-->
-    <string name="widget_start_text">Start</string>
-    <string name="widget_stop_text">Stop</string>
+    <string name="widget_start_text">Старт</string>
+    <string name="widget_stop_text">Стоп</string>
 
     <string name="widget_prefs_service_id">SERVICE_STATUS</string>
     <string name="widget_padlock_image_desc">Widget padlock image</string>

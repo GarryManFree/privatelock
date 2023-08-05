@@ -1,28 +1,28 @@
 <resources>
-    <string name="app_name">Private Lock</string>
-    <string name="app_desc">Open-Source Lock Privacy</string>
+    <string name="app_name" translatable="false">Private Lock</string>
+    <string name="app_desc" translatable="false">Open-Source Lock Privacy</string>
 
-    <string name="app_github_dev">https://github.com/wesaphzt</string>
-    <string name="app_github">https://github.com/wesaphzt/PrivateLock</string>
+    <string name="app_github_dev" translatable="false">https://github.com/wesaphzt</string>
+    <string name="app_github" translatable="false">https://github.com/wesaphzt/PrivateLock</string>
 
     <!--main-->
     <string name="main_lock_sensitivity_title">Set the lock sensitivity</string>
     <string name="main_lock_sensitivity_title_high">High</string>
     <string name="main_lock_sensitivity_title_low">Low</string>
-    <string name="main_seek_low">0</string>
-    <string name="main_seek_high">40</string>
+    <string name="main_seek_low" translatable="false">0</string>
+    <string name="main_seek_high" translatable="false">40</string>
     <string name="main_test_lock_sensitivity_title">Test the lock sensitivity</string>
-    <string name="main_lock_sensitivity_title_arrow">→</string>
+    <string name="main_lock_sensitivity_title_arrow" translatable="false">→</string>
     <string name="sensitivity_value">Value: %1$s</string>
 
     <!--stats-->
     <string name="stats_last_breach_value_title">Last Breach Value:</string>
     <string name="stats_avg_breach_value_title">Avg. Breach Value:</string>
     <string name="stats_highest_breach_value_title">Highest Breach Value:</string>
-    <string name="stats_zero">0</string>
+    <string name="stats_zero" translatable="false">0</string>
 
     <!--intro-->
-    <string name="slider_page_one_title">@string/app_name</string>
+    <string name="slider_page_one_title" translatable="false">@string/app_name</string>
     <string name="slider_page_one_desc">Private Lock, the perfect companion to help protect your phone privacy and security.</string>
     <string name="slider_page_two_title">Protect Against Theft</string>
     <string name="slider_page_two_desc">If someone takes your phone while you\'re using it, your phone is unlocked and all your private data is up for grabs.</string>
@@ -52,7 +52,7 @@
     <string name="about_contribute_desc">Report bugs or request new features</string>
 
     <string name="about_developer_image_desc">Author image</string>
-    <string name="about_developer_title">wesaphzt</string>
+    <string name="about_developer_title" translatable="false">wesaphzt</string>
     <string name="about_developer_desc">Developer</string>
     <string name="about_developer_card_title">Developer</string>
 
@@ -60,29 +60,29 @@
     <string name="about_version_image_desc">Version image</string>
 
     <string name="about_license_title">License</string>
-    <string name="about_license_desc">GPL v3.0</string>
+    <string name="about_license_desc" translatable="false">GPL v3.0</string>
     <string name="about_license_image_desc">License image</string>
 
-    <string name="about_source_title">Source code</string>
-    <string name="about_source_image_desc">Source code image</string>
+    <string name="about_source_title" translatable="false">Source code</string>
+    <string name="about_source_image_desc" translatable="false">Source code image</string>
 
-    <string name="about_bug_report_image_desc">Bug report image</string>
+    <string name="about_bug_report_image_desc" translatable="false">Bug report image</string>
 
     <!--message-->
     <string name="settings_restart_service_toast">If service is running, restart for setting to take effect.</string>
 
     <!--donate-->
-    <string name="donate_bitcoin_image_desc">Bitcoin image</string>
-    <string name="donate_litecoin_image_desc">Litecoin image</string>
-    <string name="donate_ethereum_image_desc">Ethereum image</string>
-    <string name="donate_monero_image_desc">Monero image</string>
+    <string name="donate_bitcoin_image_desc" translatable="false">Bitcoin image</string>
+    <string name="donate_litecoin_image_desc" translatable="false">Litecoin image</string>
+    <string name="donate_ethereum_image_desc" translatable="false">Ethereum image</string>
+    <string name="donate_monero_image_desc" translatable="false">Monero image</string>
 
-    <string name="donate_bitcoin_address">1GCkvAg9oG79niQTbh6EH9rPALQDXKyHKK</string>
-    <string name="donate_litecoin_address">LV687s3wVdhmLZyJMFxomJHdHFXeFAKT5R</string>
-    <string name="donate_ethereum_address">0x785a8804c85b88683a5cce5e53f60878831e5d03</string>
-    <string name="donate_monero_address">43Vijzdt3y42mmT954rSYPjXYabDsjYEV2KyhxfC46JibR2ny9VmRS1fjdJTHxxPVPFE8ajgArwjWfyaRgjh9vcNAwmkfJj</string>
+    <string name="donate_bitcoin_address" translatable="false">1GCkvAg9oG79niQTbh6EH9rPALQDXKyHKK</string>
+    <string name="donate_litecoin_address" translatable="false">LV687s3wVdhmLZyJMFxomJHdHFXeFAKT5R</string>
+    <string name="donate_ethereum_address" translatable="false">0x785a8804c85b88683a5cce5e53f60878831e5d03</string>
+    <string name="donate_monero_address" translatable="false">43Vijzdt3y42mmT954rSYPjXYabDsjYEV2KyhxfC46JibR2ny9VmRS1fjdJTHxxPVPFE8ajgArwjWfyaRgjh9vcNAwmkfJj</string>
 
-    <string name="donate_note_text">If you find these apps useful, consider supporting me in some way in my mission to create simple, useful, privacy-oriented, open-source apps.</string>
+    <string name="donate_note_text" translatable="false">If you find these apps useful, consider supporting me in some way in my mission to create simple, useful, privacy-oriented, open-source apps.</string>
     <string name="donate_note_image_desc">Text emoji image</string>
 
     <!--widget-->
@@ -93,6 +93,6 @@
     <string name="widget_padlock_image_desc">Widget padlock image</string>
 
     <!--notification-->
-    <string name="notification_main_channel_id">lock_notification_channel_id</string>
+    <string name="notification_main_channel_id" translatable="false">lock_notification_channel_id</string>
     <string name="notification_main_channel_name">Lock Notification Service</string>
 </resources>
