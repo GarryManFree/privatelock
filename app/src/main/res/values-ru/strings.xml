@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Private Lock</string>
-    <string name="app_desc">Open-Source Lock Privacy</string>
+    <string name="app_desc">Конфиденциальная блокировка с открытым исходным кодом</string>
 
     <string name="app_github_dev">https://github.com/wesaphzt</string>
     <string name="app_github">https://github.com/wesaphzt/PrivateLock</string>
 
     <!--main-->
     <string name="main_lock_sensitivity_title">Установите чувствительность блокировки</string>
-    <string name="main_lock_sensitivity_title_high">Высокий</string>
-    <string name="main_lock_sensitivity_title_low">Низкий</string>
+    <string name="main_lock_sensitivity_title_high">Высокая</string>
+    <string name="main_lock_sensitivity_title_low">Низкая</string>
     <string name="main_seek_low">0</string>
     <string name="main_seek_high">40</string>
     <string name="main_test_lock_sensitivity_title">Проверить чувствительность блокировки</string>
@@ -16,9 +16,9 @@
     <string name="sensitivity_value">Значение: %1$s</string>
 
     <!--stats-->
-    <string name="stats_last_breach_value_title">Last Breach Value:</string>
-    <string name="stats_avg_breach_value_title">Avg. Breach Value:</string>
-    <string name="stats_highest_breach_value_title">Highest Breach Value:</string>
+    <string name="stats_last_breach_value_title">Последнее значение сработки:</string>
+    <string name="stats_avg_breach_value_title">Среднее значение сработки:</string>
+    <string name="stats_highest_breach_value_title">Максимальное значение сработки:</string>
     <string name="stats_zero">0</string>
 
     <!--intro-->
@@ -48,13 +48,13 @@
     <string name="about_overview_logo_desc">About overview app logo</string>
 
     <string name="about_contribute_card_title">Contribute</string>
-    <string name="about_contribute_title">Report Bugs</string>
-    <string name="about_contribute_desc">Report bugs or request new features</string>
+    <string name="about_contribute_title">Сообщить об ошибках</string>
+    <string name="about_contribute_desc">Сообщайте об ошибках или запрашивайте новые функции</string>
 
     <string name="about_developer_image_desc">Изображение автора</string>
     <string name="about_developer_title">wesaphzt</string>
-    <string name="about_developer_desc">Developer</string>
-    <string name="about_developer_card_title">Developer</string>
+    <string name="about_developer_desc">Разработчик</string>
+    <string name="about_developer_card_title">Разработчик</string>
 
     <string name="about_version_title">Версия</string>
     <string name="about_version_image_desc">Version image</string>
@@ -63,13 +63,13 @@
     <string name="about_license_desc">GPL v3.0</string>
     <string name="about_license_image_desc">License image</string>
 
-    <string name="about_source_title">Source code</string>
+    <string name="about_source_title">Исходный код</string>
     <string name="about_source_image_desc">Source code image</string>
 
     <string name="about_bug_report_image_desc">Bug report image</string>
 
     <!--message-->
-    <string name="settings_restart_service_toast">If service is running, restart for setting to take effect.</string>
+    <string name="settings_restart_service_toast">Если служба запущена, перезапустите ее, чтобы настройки вступили в силу.</string>
 
     <!--donate-->
     <string name="donate_bitcoin_image_desc">Bitcoin image</string>
@@ -82,7 +82,7 @@
     <string name="donate_ethereum_address">0x785a8804c85b88683a5cce5e53f60878831e5d03</string>
     <string name="donate_monero_address">43Vijzdt3y42mmT954rSYPjXYabDsjYEV2KyhxfC46JibR2ny9VmRS1fjdJTHxxPVPFE8ajgArwjWfyaRgjh9vcNAwmkfJj</string>
 
-    <string name="donate_note_text">If you find these apps useful, consider supporting me in some way in my mission to create simple, useful, privacy-oriented, open-source apps.</string>
+    <string name="donate_note_text">Если вы найдете эти приложения полезными, подумайте о том, чтобы каким-то образом поддержать меня в моей миссии по созданию простых, полезных, ориентированных на конфиденциальность приложений с открытым исходным кодом.</string>
     <string name="donate_note_image_desc">Text emoji image</string>
 
     <!--widget-->
@@ -90,9 +90,9 @@
     <string name="widget_stop_text">Стоп</string>
 
     <string name="widget_prefs_service_id">SERVICE_STATUS</string>
-    <string name="widget_padlock_image_desc">Widget padlock image</string>
+    <string name="widget_padlock_image_desc">Изображение замка виджета</string>
 
     <!--notification-->
     <string name="notification_main_channel_id">lock_notification_channel_id</string>
-    <string name="notification_main_channel_name">Lock Notification Service</string>
+    <string name="notification_main_channel_name">Блокировка службы уведомлений</string>
 </resources>

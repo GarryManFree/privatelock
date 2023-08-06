@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Private Lock</string>
-    <string name="app_desc" translatable="false">Open-Source Lock Privacy</string>
+    <string name="app_desc">Open-Source Lock Privacy</string>
 
     <string name="app_github_dev" translatable="false">https://github.com/wesaphzt</string>
     <string name="app_github" translatable="false">https://github.com/wesaphzt/PrivateLock</string>
@@ -45,25 +45,25 @@
     <string name="fragment_about_title">About</string>
 
     <!--about-->
-    <string name="about_overview_logo_desc">About overview app logo</string>
+    <string name="about_overview_logo_desc" translatable="false">About overview app logo</string>
 
-    <string name="about_contribute_card_title">Contribute</string>
+    <string name="about_contribute_card_title" translatable="false">Contribute</string>
     <string name="about_contribute_title">Report Bugs</string>
     <string name="about_contribute_desc">Report bugs or request new features</string>
 
-    <string name="about_developer_image_desc">Author image</string>
+    <string name="about_developer_image_desc" translatable="false">Author image</string>
     <string name="about_developer_title" translatable="false">wesaphzt</string>
     <string name="about_developer_desc">Developer</string>
     <string name="about_developer_card_title">Developer</string>
 
     <string name="about_version_title">Version</string>
-    <string name="about_version_image_desc">Version image</string>
+    <string name="about_version_image_desc" translatable="false">Version image</string>
 
     <string name="about_license_title">License</string>
     <string name="about_license_desc" translatable="false">GPL v3.0</string>
-    <string name="about_license_image_desc">License image</string>
+    <string name="about_license_image_desc" translatable="false">License image</string>
 
-    <string name="about_source_title" translatable="false">Source code</string>
+    <string name="about_source_title">Source code</string>
     <string name="about_source_image_desc" translatable="false">Source code image</string>
 
     <string name="about_bug_report_image_desc" translatable="false">Bug report image</string>
@@ -82,15 +82,15 @@
     <string name="donate_ethereum_address" translatable="false">0x785a8804c85b88683a5cce5e53f60878831e5d03</string>
     <string name="donate_monero_address" translatable="false">43Vijzdt3y42mmT954rSYPjXYabDsjYEV2KyhxfC46JibR2ny9VmRS1fjdJTHxxPVPFE8ajgArwjWfyaRgjh9vcNAwmkfJj</string>
 
-    <string name="donate_note_text" translatable="false">If you find these apps useful, consider supporting me in some way in my mission to create simple, useful, privacy-oriented, open-source apps.</string>
-    <string name="donate_note_image_desc">Text emoji image</string>
+    <string name="donate_note_text">If you find these apps useful, consider supporting me in some way in my mission to create simple, useful, privacy-oriented, open-source apps.</string>
+    <string name="donate_note_image_desc" translatable="false">Text emoji image</string>
 
     <!--widget-->
     <string name="widget_start_text">Start</string>
     <string name="widget_stop_text">Stop</string>
 
-    <string name="widget_prefs_service_id">SERVICE_STATUS</string>
-    <string name="widget_padlock_image_desc">Widget padlock image</string>
+    <string name="widget_prefs_service_id" translatable="false">SERVICE_STATUS</string>
+    <string name="widget_padlock_image_desc" translatable="false">Widget padlock image</string>
 
     <!--notification-->
     <string name="notification_main_channel_id" translatable="false">lock_notification_channel_id</string>
